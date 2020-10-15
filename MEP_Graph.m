@@ -1,3 +1,24 @@
+%{
+    Copyright (C) Cambridge Electronic Design Limited 2014
+    Author: Greg P. Smith
+    Web: www.ced.co.uk email: greg@ced.co.uk
+
+    This file is part of CEDS64ML, an SON MATLAB interface.
+
+    CEDS64ML is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    CEDS64ML is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with CEDS64ML.  If not, see <http://www.gnu.org/licenses/>.
+%}
+
 %% This script take sthe 225 MEPs produced in Study 2 and reads their peak-to-peak values. They are added together to show mean MEP amplitude per stimtype and chronometric timepoint.
 % It is a little clunky but it works! Could definitely be more efficient.
 
